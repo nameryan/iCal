@@ -5,6 +5,7 @@
 
 ##使用方法
 打开iCal——选择“文件”菜单——新建日历订阅——拷贝上面的地址——订阅
+![img](https://raw.githubusercontent.com/nameryan/iCal/master/usage.png)
 
 
 ##国家法定节假日
