@@ -5,7 +5,6 @@
 
 ## 国家法定节假日
 >放假日期，调休补休日期信息
->最近更新：2018年放假安排
 
 ## 订阅地址
 https://p29-calendars.icloud.com/published/2/EU3uSlvFKk14FXKorvjvca_OB5AYPXND2mAhSUn3cLf2l9BfibxNgLFfkaR3IgyLbjnS9Mz9BxYODw-KQtz1w8eerO1pEnnmmasw3mdUNIM
@@ -27,3 +26,4 @@ https://p29-calendars.icloud.com/published/2/EU3uSlvFKk14FXKorvjvca_OB5AYPXND2mA
 ## Release Notes
 2018-09-29
 - 增加补班日前一天的添加闹钟设置提醒
+- 更新2019年放假安排（经验放假，官方还未出）
