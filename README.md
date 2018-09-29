@@ -24,4 +24,6 @@ https://p29-calendars.icloud.com/published/2/EU3uSlvFKk14FXKorvjvca_OB5AYPXND2mA
 - ![img](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/icloud/macos-high-sierra-calendars-subscribe-holidays.jpg)
 
 
-
+## Release Notes
+2018-09-29
+- 增加补班日前一天的添加闹钟设置提醒
