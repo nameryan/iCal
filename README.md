@@ -16,11 +16,10 @@ https://p29-calendars.icloud.com/published/2/EU3uSlvFKk14FXKorvjvca_OB5AYPXND2mA
 ![img](https://github.com/nameryan/iCal/blob/master/ios_ical.PNG)
 
 ## Mac订阅
-- 在“日历”中，选取“文件”>“新建日历订阅”。
-- 输入日历的[网址](https://p29-calendars.icloud.com/published/2/EU3uSlvFKk14FXKorvjvca_OB5AYPXND2mAhSUn3cLf2l9BfibxNgLFfkaR3IgyLbjnS9Mz9BxYODw-KQtz1w8eerO1pEnnmmasw3mdUNIM)，然后点按“订阅”。
-- 输入日历名称，然后选取一种颜色来帮助您在日历上标识该名称。
-- 从“位置”菜单中选取“iCloud”，然后点按“好”。
-- ![img](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/icloud/macos-high-sierra-calendars-subscribe-holidays.jpg)
+- 点上面的[订阅地址](https://p29-calendars.icloud.com/published/2/EU3uSlvFKk14FXKorvjvca_OB5AYPXND2mAhSUn3cLf2l9BfibxNgLFfkaR3IgyLbjnS9Mz9BxYODw-KQtz1w8eerO1pEnnmmasw3mdUNIM)下载ics文件
+- 打开刚刚下载的ics文件，会自动打开日历app，并提示添加
+- 选择『新建日历』添加到日历app中即可
+- ![img](https://github.com/nameryan/iCal/blob/master/mac_ical.png?raw=true)
 
 
 ## Release Notes
