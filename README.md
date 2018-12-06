@@ -23,6 +23,9 @@ https://p29-calendars.icloud.com/published/2/EU3uSlvFKk14FXKorvjvca_OB5AYPXND2mA
 
 
 ## Release Notes
+2018-12-06
+- 根据国务院公布的2019假期，调整之前预测的假期
+
 2018-09-29
 - 增加补班日前一天的添加闹钟设置提醒
 - 更新2019年放假安排（经验放假，官方还未出）
