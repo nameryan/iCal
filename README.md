@@ -5,20 +5,25 @@
 
 **一次订阅，终身使用。**
 
+## 订阅链接
+- [【1.国家法定节假日】](webcal://p29-calendars.icloud.com/published/2/33JC9JG5UA247G09jMVa7kcPvXQsw1yUWEwf7MfQ_S6w-j_J1URGwUn4lYm1kq0yQR6RDQrTgBJDzK46Gnnt7EZRO2JfNs4TwhCpyY1EXr8)   
+- [【2.撸毛日历】](webcal://p29-calendars.icloud.com/published/2/MTQ1OTA2NjY3NDE0NTkwNq3QtB8dHg2WhKOFllGomF8_4ka33V4s0VMtAV-dD6ychJiiJ3Ywr7y7ZgDGakqRt_ZSUPU9DpxnuiApT5OcZbA)
+
 ## 手机订阅
-- 在Safari打开此 [【1.国家法定节假日】](https://p29-calendars.icloud.com/published/2/EU3uSlvFKk14FXKorvjvca_OB5AYPXND2mAhSUn3cLf2l9BfibxNgLFfkaR3IgyLbjnS9Mz9BxYODw-KQtz1w8eerO1pEnnmmasw3mdUNIM)   [【2.撸毛日历】](https://p29-calendars.icloud.com/published/2/AAAAAAAAAAAAAAAAAAAAAIvEM3YTRaTQ2UC9zqj0jrXG3rJbZHqZu5MgEmreSwpx59vkQgKkcPsiwco4D2sU-2ihNiucpe4u-vJsyoodq1o)
-- 微信是打不开的，需要点右上 ··· 然后用 Safari 打开。
+- 用手机浏览器打开订阅链接。
+- 微信是打不开的，需要点右上 ··· 然后用浏览器打开。
 - 点开后如下图。你们右上角应该有 Add All 可以点（我自己看不到），加上就有了。
 ![img](https://github.com/nameryan/iCal/blob/master/ios_ical.PNG)
 
 ## Mac订阅
-- 点上面的[【1.国家法定节假日】](https://p29-calendars.icloud.com/published/2/EU3uSlvFKk14FXKorvjvca_OB5AYPXND2mAhSUn3cLf2l9BfibxNgLFfkaR3IgyLbjnS9Mz9BxYODw-KQtz1w8eerO1pEnnmmasw3mdUNIM) [【2.撸毛日历】](https://p29-calendars.icloud.com/published/2/AAAAAAAAAAAAAAAAAAAAAIvEM3YTRaTQ2UC9zqj0jrXG3rJbZHqZu5MgEmreSwpx59vkQgKkcPsiwco4D2sU-2ihNiucpe4u-vJsyoodq1o) 下载ics文件
-- 打开刚刚下载的ics文件，会自动打开日历app，并提示添加
 - 选择『新建日历』添加到日历app中即可
 - ![img](https://github.com/nameryan/iCal/blob/master/mac_ical.png?raw=true)
 
 
 ## Release Notes
+2019-09-16
+- 更换日历链接为webcal（不知何时icloud后台更换了日历的链接，之前为https），解决添加到Google 日历后日期错误的问题。
+
 2019-09-04
 - 参考历年放假规律预测2020年假期及调休补班，**前面加*号**的为预测放假推断信息，待国务院正式公布后更新。
 
