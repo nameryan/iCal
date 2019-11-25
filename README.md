@@ -20,6 +20,10 @@
 - 选择『新建日历』添加到日历app中即可
 - ![img](https://github.com/nameryan/iCal/blob/master/mac_ical.png?raw=true)
 
+## 通过Google Calendar订阅无法同步问题
+如果通过Google Calendar来订阅此日历，会出现后期无法同步更新的问题，解决的方式是：
+访问：calendar.google.com/calendar/syncselect
+确保所订阅的日历被勾上。
 
 ## Release Notes
 2019-11-21
